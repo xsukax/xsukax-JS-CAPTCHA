@@ -118,6 +118,3 @@ This project is licensed under the **GNU General Public License v3.0**.
 ---
 
 **© 2025 xsukax — Open-source JavaScript CAPTCHA for secure, privacy-first web forms.**
-
-```
-```
