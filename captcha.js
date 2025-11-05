@@ -16,7 +16,7 @@
         maxAttempts: 3,
         tokenLength: 32,
         minInteractionTime: 500,
-        fonts: ['Arial', 'Courier New', 'Georgia', 'Times New Roman', 'Verdana', 'Trebuchet MS', 'Tahoma', 'Comic Sans MS', 'Lucida Console', 'Impact', 'Garamond', 'Book Antiqua', 'Century Gothic', 'DejaVu Sans', 'Liberation Mono'],
+        fonts: ['Arial', 'Courier New', 'Georgia', 'Times New Roman', 'Verdana', 'Trebuchet MS', 'Tahoma', 'Comic Sans MS', 'Lucida Console', 'Garamond', 'Book Antiqua', 'Century Gothic', 'DejaVu Sans', 'Liberation Mono'],
         characters: 'ABCDEFGHJKLMNPQRSTUVWXYZ23456789',
         colors: {
             primary: '#2c3e50',
