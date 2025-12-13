@@ -11,6 +11,7 @@ A lightweight, secure, and privacy-focused JavaScript CAPTCHA solution designed 
 
 - **Live Demo**: [https://xsukax.github.io/xsukax-JS-CAPTCHA](https://xsukax.github.io/xsukax-JS-CAPTCHA)
 - **CDN**: `https://xsukax.github.io/xsukax-JS-CAPTCHA/captcha.js`
+- **Other CDN** `https://cdn.jsdelivr.net/gh/xsukax/xsukax-JS-CAPTCHA/captcha.js`
 - **Repository**: [https://github.com/xsukax/xsukax-JS-CAPTCHA](https://github.com/xsukax/xsukax-JS-CAPTCHA)
 
 ---
